@@ -1,9 +1,8 @@
 //Faça um programa que encontre a raiz quadrada de um número, Multiplique o resultado por 10 e divida por 33.//
 
-let num1 = 36;
+const numero1 = Math.sqrt(25)
 
-let raizQuadrada = Math.sqrt(36);
+const result = (numero1 * 10) / 33
 
-let mulipliquePor10 = raizQuadrada + 10;
 
-let 
+console.log(result)
