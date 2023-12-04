@@ -6,4 +6,4 @@ const nome2 = 'Joãozinho'
 
 const compare = nome1 === nome2
 
-console.log(compare)
+console.log(compare);
