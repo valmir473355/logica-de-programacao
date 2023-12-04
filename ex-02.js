@@ -8,4 +8,4 @@ let multiplicar = num1 * num2;
 
 let adicione10 = multiplicar + 10;
 
-console.log(adicione10);
+console.log(adicione10)
