@@ -6,4 +6,4 @@ const nome2 = 'Joãozinho'
 
 const nomes = `Olá, meu nome é ${nome1} e meu partner do CodeClub é ${nome2}`
 
-console.log(nomes)
+console.log(nomes);
