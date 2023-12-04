@@ -1,1 +1,1 @@
-//Faça um programa onde entramos com dois números, e ele imprime se o primeiro é maior do que o segundo. Ex: 2 e 5. imprime false.//
+//Faça um programa onde entramos com dois números, e ele imprime se o primeiro é maior do que o segundo. Ex: 2 e 5. imprime false.///
